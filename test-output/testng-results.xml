@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-12T01:51:32 IST" name="Default suite" finished-at="2025-04-12T01:51:43 IST" duration-ms="11179">
+    <groups>
+    </groups>
+    <test started-at="2025-04-12T01:51:32 IST" name="Default test" finished-at="2025-04-12T01:51:43 IST" duration-ms="11179">
+      <class name="TestScripts.Adminpage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestScripts.Adminpage@55fe41ea]" started-at="2025-04-12T01:51:32 IST" name="setup" finished-at="2025-04-12T01:51:38 IST" duration-ms="5824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="login()[pri:0, instance:TestScripts.Adminpage@55fe41ea]" started-at="2025-04-12T01:51:38 IST" name="login" finished-at="2025-04-12T01:51:39 IST" duration-ms="991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="adminPage()[pri:0, instance:TestScripts.Adminpage@55fe41ea]" started-at="2025-04-12T01:51:39 IST" name="adminPage" finished-at="2025-04-12T01:51:42 IST" duration-ms="3365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminPage -->
+        <test-method is-config="true" signature="logoutFromApplication()[pri:0, instance:TestScripts.Adminpage@55fe41ea]" started-at="2025-04-12T01:51:42 IST" name="logoutFromApplication" finished-at="2025-04-12T01:51:43 IST" duration-ms="961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutFromApplication -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:TestScripts.Adminpage@55fe41ea]" started-at="2025-04-12T01:51:43 IST" name="afterClass" finished-at="2025-04-12T01:51:43 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- TestScripts.Adminpage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
